@@ -1,0 +1,67 @@
+.contact {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #1f1f1f;
+   border-radius: 15% 15%;
+   margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 18px;
+  margin-bottom: 30px;
+  color: #555;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto 40px;
+  text-align: left;
+  max-width: 600px;
+}
+
+.contact-list li {
+  margin: 15px 0;
+  font-size: 18px;
+}
+
+.contact-list a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.contact-list a:hover {
+  text-decoration: underline;
+}
+
+.resume-download {
+  margin-top: 20px;
+}
+
+.resume-button {
+  display: inline-block;
+  padding: 14px 28px;
+  background-color: #007bff;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.resume-button:hover {
+  background-color: #0056b3;
+}
